@@ -196,11 +196,3 @@
 - **"fatal: No such file or directory"**: Asegúrate de estar en la carpeta correcta del repositorio y que el archivo exista.
 
 ---
-
-Este cheatsheet cubre los comandos básicos más importantes y los problemas comunes que puedas encontrar en tu trabajo con Git y GitHub. Te recomiendo que sigas practicando y te familiarices con ellos para facilitarte la gestión de tus repositorios.
-
-Si alguna vez tienes dudas adicionales, ¡no dudes en preguntarme!
-
---- 
-
-Este formato está listo para pegar directamente en un archivo `.md` para que lo puedas subir como parte de la documentación de tu repositorio de GitHub.
